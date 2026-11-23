@@ -20,7 +20,6 @@ Technology professional experienced in Agile delivery, business analysis, SAP-re
 ## Education
 - Lamar University — B.S. Computer Information Science, expected December 2026.
 - Louisiana State University — MBA, Information Systems and Decision Sciences.
-- Lamar University — B.S. in Computer Information Systems (earlier degree; verify exact transcript title before publishing).
 
 ## Selected Projects
 - Mogul Agency — brand and professional-services website.
